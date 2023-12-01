@@ -1,12 +1,19 @@
 {
-  "MENU.MAIN.NEWGAME":"Nowa Gra",
-  "MENU.MAIN.LOADGAME":"Wczytaj Grę",
-  "MENU.MAIN.OPTIONS":"Opcje",
-  "MENU.MAIN.EXIT":"Wyjdź",
+  "MENU.NEWGAME":"Nowa Gra",
+  "MENU.RESUME":"Wznów",
+  "MENU.PLAY":"Graj",
 
-  "MENU.LOADGAME.PLAY":"Graj",
+  "MENU.SAVEGAME":"Zapisz Grę",
+  "MENU.LOADGAME":"Wczytaj Grę",
+  "MENU.SAVE":"Zapisz",
+  "MENU.SAVE&EXIT":"Zapisz i Wyjdź",
+
+  "MENU.OPTIONS":"Opcje",
+  "MENU.EXIT":"Wyjdź",
 
   "MENU.STATUS.LOADING":"Ładowanie...",
+  "MENU.SAVENAME.PLACEHOLDER":"Nazwa zapisu...",
+  "MENU.LOAD.NOGAMES":"Obecnie nie ma żadnych zapisanych gier.",
 
   "MENU.OPTIONS.TITLE":"Opcje",
   "MENU.OPTIONS.GRAPHICS":"Grafika",
@@ -26,7 +33,7 @@
   "MENU.OPTIONS.SOUND.MUSIC":"Głośność Muzyki",
   "MENU.OPTIONS.SOUND.EFFECTS":"Głośność Efektów",
 
-  "MENU.OPTIONS.GAMEPLAY.SENSIVITY":"Czułość Kontrolera",
+  "MENU.OPTIONS.GAMEPLAY.SENSIVITY":"Prędkość poruszania się",
   "MENU.OPTIONS.GAMEPLAY.LANGUAGE":"Język",
   "MENU.OPTIONS.GAMEPLAY.LANGUAGE.ENGLISH":"Angielski",
   "MENU.OPTIONS.GAMEPLAY.LANGUAGE.POLISH":"Polski",
@@ -35,13 +42,13 @@
   "MENU.OPTIONS.RESET.YES":"Tak",
   "MENU.OPTIONS.RESET.NO":"Nie",
 
-  "PAUSEMENU.MAIN.RESUME":"Wznów",
-  "PAUSEMENU.MAIN.SAVEGAME":"Zapisz Grę",
-  "PAUSEMENU.MAIN.LOADGAME":"Wczytaj Grę",
-  "PAUSEMENU.MAIN.OPTIONS":"Opcje",
-  "PAUSEMENU.MAIN.EXITGAME":"Wyjdź",
+  "MENU.EXITGAME.TEXT":"Czy chcesz zapisać grę przed wyjściem?",
+  "MENU.EXITGAME.YES":"Tak",
+  "MENU.EXITGAME.NO":"Nie",
 
-  "PAUSEMENU.EXITGAME.CONFIRMATION.TEXT":"Czy chcesz zapisać grę przed wyjściem?",
-  "PAUSEMENU.EXITGAME.CONFIRMATION.YES":"Tak",
-  "PAUSEMENU.EXITGAME.CONFIRMATION.NO":"Nie"
+  "TUTORIAL.HUB.PLACEMENT":"Zacznij swoją przygodę od postwienia głównego ośrodka!",
+
+  "GUI.ENERGY":"Energia",
+  "GUI.PRODUCTION":"Produkcja",
+  "GUI.LIVING":"Życie"
 }

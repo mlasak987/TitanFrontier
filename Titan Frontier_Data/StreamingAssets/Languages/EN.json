@@ -1,12 +1,19 @@
 {
-  "MENU.MAIN.NEWGAME":"New Game",
-  "MENU.MAIN.LOADGAME":"Load Game",
-  "MENU.MAIN.OPTIONS":"Options",
-  "MENU.MAIN.EXIT":"Exit",
+  "MENU.NEWGAME":"New Game",
+  "MENU.RESUME":"Resume",
+  "MENU.PLAY":"Play",
 
-  "MENU.LOADGAME.PLAY":"Play",
+  "MENU.SAVEGAME":"Save Game",
+  "MENU.LOADGAME":"Load Game",
+  "MENU.SAVE":"Save",
+  "MENU.SAVE&EXIT":"Save & Exit",
+
+  "MENU.OPTIONS":"Options",
+  "MENU.EXIT":"Exit",
 
   "MENU.STATUS.LOADING":"Loading...",
+  "MENU.SAVENAME.PLACEHOLDER":"Save name...",
+  "MENU.LOAD.NOGAMES":"There are currently no saved games.",
 
   "MENU.OPTIONS.TITLE":"Options",
   "MENU.OPTIONS.GRAPHICS":"Graphics",
@@ -26,7 +33,7 @@
   "MENU.OPTIONS.SOUND.MUSIC":"Music Volume",
   "MENU.OPTIONS.SOUND.EFFECTS":"Effects Volume",
 
-  "MENU.OPTIONS.GAMEPLAY.SENSIVITY":"Controller Sensivity",
+  "MENU.OPTIONS.GAMEPLAY.SENSIVITY":"Movement Speed",
   "MENU.OPTIONS.GAMEPLAY.LANGUAGE":"Language",
   "MENU.OPTIONS.GAMEPLAY.LANGUAGE.ENGLISH":"English",
   "MENU.OPTIONS.GAMEPLAY.LANGUAGE.POLISH":"Polish",
@@ -35,13 +42,13 @@
   "MENU.OPTIONS.RESET.YES":"Yes",
   "MENU.OPTIONS.RESET.NO":"No",
 
-  "PAUSEMENU.MAIN.RESUME":"Resume",
-  "PAUSEMENU.MAIN.SAVEGAME":"Save Game",
-  "PAUSEMENU.MAIN.LOADGAME":"Load Game",
-  "PAUSEMENU.MAIN.OPTIONS":"Options",
-  "PAUSEMENU.MAIN.EXITGAME":"Exit Game",
+  "MENU.EXITGAME.TEXT":"Do you want to save the game before leaving?",
+  "MENU.EXITGAME.YES":"Yes",
+  "MENU.EXITGAME.NO":"No",
 
-  "PAUSEMENU.EXITGAME.CONFIRMATION.TEXT":"Do you want to save the game before leaving?",
-  "PAUSEMENU.EXITGAME.CONFIRMATION.YES":"Yes",
-  "PAUSEMENU.EXITGAME.CONFIRMATION.NO":"No"
+  "TUTORIAL.HUB.PLACEMENT":"Begin your journey by placing the main hub!",
+
+  "GUI.ENERGY":"Energy",
+  "GUI.PRODUCTION":"Production",
+  "GUI.LIVING":"Living"
 }
